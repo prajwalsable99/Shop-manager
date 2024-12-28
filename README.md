@@ -4,6 +4,15 @@
 This project is a desktop application designed to simplify the daily operations of shopkeepers. The application allows shopkeepers to manage their inventory, process billing, and monitor sales through an intuitive interface.
 
 ---
+## Schema
+![db-schema](https://github.com/user-attachments/assets/bc17d375-acae-4c53-908f-1b4b5fd88c90)
+
+## Output :
+![image](https://github.com/user-attachments/assets/06b68745-c72f-45b7-8a5c-5f3f2cbb2900)
+![image](https://github.com/user-attachments/assets/867dbb40-2b45-44a7-af87-01dceeac9ae1)
+![image](https://github.com/user-attachments/assets/04bde5fc-5fe0-4d73-9b13-574e65e06b58)
+![image](https://github.com/user-attachments/assets/ef83381c-9b45-4f4c-ae67-ddeca123eed5)
+
 
 ## Features
 
